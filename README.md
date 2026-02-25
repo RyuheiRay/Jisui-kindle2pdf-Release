@@ -3,9 +3,14 @@
 A dedicated tool to convert Kindle books into high-quality PDFs, optimized for **reMarkable 2** and other E-Ink tablets.
 
 ## 📖 The Story Behind the Project
+
+<img src="https://github.com/RyuheiRay/Jisui-kindle2pdf/blob/master/src/assets/Jisui-kindle2pdf.JPG?raw=true" align="right" width="400" hspace="20">
+
 As a reMarkable 2 lover, my biggest frustration was the inability to read my Kindle library on that beautiful E-Ink screen. I developed this tool to bridge that gap. 
 
 Initially, I kept this project private for personal use. However, I realized that in the age of AI, having your library in a versatile PDF format is more valuable than ever. I decided to go public to help fellow E-Ink enthusiasts enjoy their books without limits.
+
+<br clear="right">
 
 ---
 
@@ -57,4 +62,9 @@ If you love this tool, please consider buying me a coffee! Your support keeps th
 * **Disclaimer:** This tool is for **personal use only** (private copies of purchased books). Distributing or selling generated files is strictly prohibited. Use at your own risk.
 
 ---
+## 📸 Screenshot
+![UI Image](https://github.com/RyuheiRay/Jisui-kindle2pdf/blob/master/src/assets/screenshot.png)
+
+---
+
 *Created with ❤️ by RyuheiRay | © 2026*
